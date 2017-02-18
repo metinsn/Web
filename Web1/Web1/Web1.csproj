@@ -108,6 +108,11 @@
   <ItemGroup>
     <Content Include="HtmlPage1.html" />
     <Content Include="Html_1_ders.html" />
+    <Content Include="Html_2_ders.html" />
+    <Content Include="Html_3_ders.html" />
+    <Content Include="images\food.jpeg" />
+    <Content Include="images\HD-resim.jpg" />
+    <Content Include="images\octopus.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
